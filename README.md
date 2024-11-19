@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Madison Graves]!
+# 👋 Hi, I'm Madison!
 
 Welcome to my GitHub profile! I'm a passionate **Frontend Developer** and **UX/UI Designer** with a knack for creating delightful user experiences. Here's a little about me:
 
