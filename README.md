@@ -9,14 +9,6 @@
 
 I’m a **Frontend Developer** with a passion for blending design and technology to create captivating and user-friendly experiences. 🚀
 
-### 🛠️ **What I Bring to the Table**
-- 💻 Building sleek, responsive, and accessible web applications.
-- 🧩 Solving design problems with a **user-first approach**.
-- 🌐 Working with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Git**.
-- 📊 Leveraging database skills for unique solutions.
-
----
-
 <div align="center">
   <h3>✨ Let's Explore My World</h3>
 </div>
@@ -28,6 +20,16 @@ I’m a **Frontend Developer** with a passion for blending design and technology
 | 💡 **Fun Fact**         | I love crafting solutions that are both visually stunning and functionally seamless! 🎨                                                    |
 
 ---
+
+
+### 🛠️ **What I Bring to the Table**
+- 💻 Building sleek, responsive, and accessible web applications.
+- 🧩 Solving design problems with a **user-first approach**.
+- 🌐 Working with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Git**.
+- 📊 Leveraging database skills for unique solutions.
+
+---
+
 
 <div align="center">
   <h3>📫 Let’s Connect!</h3>
