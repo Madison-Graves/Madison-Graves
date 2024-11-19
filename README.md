@@ -40,7 +40,8 @@ I’m a **Frontend Developer** with a passion for blending design and technology
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madison-Graves&show_icons=true&theme=radical" alt="GitHub Stats" width="400px">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Madison-Graves&theme=default" alt="GitHub Streak Stats" width="400px">
+ <img src="https://github-readme-stats.vercel.app/api?username=Madison-Graves&show_icons=true&theme=radical" alt="GitHub Stats">
+
 </div>
 
 ---
