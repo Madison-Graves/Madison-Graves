@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madison-Graves&show_icons=true&theme=radical&cache=3" alt="GitHub Stats" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madison-Graves&show_icons=true&theme=radical&cache=5" alt="GitHub Stats" width="400px">
 </div>
 
 
