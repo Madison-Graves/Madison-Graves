@@ -38,7 +38,7 @@ I’m a **Frontend Developer** with a passion for blending design and technology
 
 ---
 
-<div align="center">
+<div align="center" display= "hidden">
   <img src="https://github-readme-stats.vercel.app/api?username=Madison-Graves&show_icons=true&theme=radical" alt="GitHub Stats" width="400px">
 </div>
 
